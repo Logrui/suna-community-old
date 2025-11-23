@@ -2,9 +2,11 @@
 
 ## 🌟 Overview
 
-Welcome to **suna-community** – a curated archive of community forks and contributions to [kortix-ai/suna](https://github.com/kortix-ai/suna), the open-source generalist AI agent platform.
+Welcome to **suna-community** – a curated archive of community forks/branches and contributions to [kortix-ai/suna](https://github.com/kortix-ai/suna), the open-source generalist AI agent platform.
 
-This repository serves as a central hub for discovering active forks, unique features, and community innovations built on top of Suna.
+This repository serves as a central hub for discovering active forks, unique features, and community innovations built on top of Suna. 
+
+Feel free to PR edits and add your forks and/or edit descriptions
 
 ## 📂 Repository Structure
 
