@@ -104,7 +104,7 @@ This document provides a structured overview of all tracked forks of [kortix-ai/
 
 - **Total Forks Tracked**: 9
 - **Combined Stars**: 34+
-- **Active Forks (Last 6 Months)**: 8
+- **Active Forks (Last 6 Months)**: 9
 - **Forks with Unique Features**: 3
 - **Languages**: Primarily TypeScript
 
