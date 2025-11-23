@@ -8,7 +8,6 @@
 - **Last Updated**: November 15, 2025
 - **Status**: 🟢 Actively Maintained
 - **Language**: TypeScript
-- **Open Issues**: 4
 - **Parent**: [kortix-ai/suna](https://github.com/kortix-ai/suna)
 
 ## 📝 Description
