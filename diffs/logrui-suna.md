@@ -14,18 +14,18 @@
 ## 📝 Description
 Kortix – build, manage and train AI Agents. Fully Open Source. Fork of Kortix/Suna - currently working on a few features: Recreating Manus "Wide Research", native support for locally running or internally run models, and integration of enterprise context "databases"
 
-## ✨ Key Features
+## ✨ Key Features/Active Development
 
-### 1. Wide Research Recreation
+### 1. Wide Research Recreation (WIP)
 - Recreating Manus "Wide Research" functionality
 - Enhanced research capabilities for AI agents
 
-### 2. Local Model Support
+### 2. Local Model Support via LMStudio and Ollama
 - Native support for locally running models
 - Integration with internally run models
 - Reduced dependency on external API services
 
-### 3. Enterprise Context Integration
+### 3. Restoration of Legacy Workflows System (WIP)
 - Integration of enterprise context "databases"
 - Enhanced data management for enterprise use cases
 - Improved context handling for organizational knowledge
